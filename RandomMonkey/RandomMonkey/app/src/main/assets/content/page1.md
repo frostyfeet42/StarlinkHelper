@@ -1,0 +1,1 @@
+Page 1 content with the link to [index](index.md).
